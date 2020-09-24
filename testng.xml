@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="com.scripts.ActiTIME.TestActitimesTask"/>
       <class name="com.scripts.ActiTIME.TESTActitimeLogin"/>
     </classes>
   </test> <!-- Test -->
